@@ -3,7 +3,7 @@ layout: post
 title: 5 Atom packages for every web developer
 tags: Atom Tools Technology
 categories: [blog, technology]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-04-17'
 ---
 
 [Atom](https://atom.io) is my favourite text editor for development. Simple, clean and with over 6K+ packages built by the open source community.

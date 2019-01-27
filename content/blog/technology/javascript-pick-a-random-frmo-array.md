@@ -4,7 +4,7 @@ title: Pick a random value from JavaScript array
 tags: JavaScript Technology
 image: header.png
 categories: [blog, technology]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-03-24'
 ---
 
 Let's say you want to pick a random value out an array. You can do that in vanilla JavaScript or using any utility libraries like Lodash or Underscore.

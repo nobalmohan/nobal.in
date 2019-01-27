@@ -3,7 +3,7 @@ layout: post
 title: How to filter post by category or tag in Jekyll
 tags: Web Technology Jekyll
 categories: [blog, technology]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-04-22'
 ---
 
 Jekyll follows liquid templating and allows a greater customization of filtering pages, tags, posts and categories.

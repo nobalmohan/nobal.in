@@ -3,7 +3,7 @@ layout: post
 title: Bangalore weekend getaway to Lepakshi and Gandikota
 tags: Travel Bangalore India
 categories: [blog, travel]
-date: '2015-05-01T22:12:03.284Z'
+date: '2015-02-21'
 ---
 
 Scattered among the dry pains of south Andra Pradesh. Lepakshi, Belum Caves and Gandikota gives you an experience of architecture, history and natural beauty. Its close proxomitiy to Karnataka makes it a perfect weekend getaway from Bangalore.

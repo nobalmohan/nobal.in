@@ -17,8 +17,8 @@ class BlogIndex extends React.Component {
         <SEO
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />{' '}
-        <Bio />{' '}
+        />
+        <Bio />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -34,19 +34,18 @@ class BlogIndex extends React.Component {
                   }}
                   to={node.fields.slug}
                 >
-                  {' '}
-                  {title}{' '}
-                </Link>{' '}
-              </h3>{' '}
+                  {title}
+                </Link>
+              </h3>
               {/*  <small> {node.frontmatter.date} </small>*/}
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.excerpt,
                 }}
-              />{' '}
+              />
             </div>
           )
-        })}{' '}
+        })}
       </Layout>
     )
   }

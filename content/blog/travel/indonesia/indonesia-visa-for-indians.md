@@ -3,7 +3,7 @@ layout: post
 title: Indonesian visa for Indians
 tags: Travel India Indonesia
 categories: [blog, travel]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-03-10'
 ---
 
 Indonesia offer visa free travel for 169 countries as of 2017. India is one among the [169](http://www.imigrasi.go.id/index.php/en/layanan-publik/bebas-visa#free-visa-countries-list). No registration or payment required to visit Indonesia as a tourist.

@@ -3,7 +3,7 @@ layout: post
 title: Bangalore Day Trip - Shivanasamudra and BR Hills
 tags: Travel Bangalore India
 categories: [blog, travel]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-05-15'
 ---
 
 If you are looking for a day long road trip close to Bangalore, then BR hills and Shivanasamudra Falls would be a perfect choice for a picnic.

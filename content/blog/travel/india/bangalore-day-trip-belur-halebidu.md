@@ -3,7 +3,7 @@ layout: post
 title: Bangalore Day Trip - Belur and Halebidu
 tags: Travel Bangalore India
 categories: [blog, travel]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-05-22'
 ---
 
 Belur and Halebidu are fine examples are Hoysala architecture. An idea destination for a road trip from bangalore.

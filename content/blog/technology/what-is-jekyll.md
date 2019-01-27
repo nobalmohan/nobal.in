@@ -3,7 +3,7 @@ layout: post
 title: What is Jekyll
 tags: Web Jekyll Technology
 categories: [blog, technology]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-03-15'
 ---
 
 [Jekyll](https://jekyllrb.com) is a static blog generator. One among the hundreds of SSG: Static Site Generators out there. A famous one, though.

@@ -3,7 +3,7 @@ layout: post
 title: Setup Android Development environment for React Native apps in Windows
 tags: React-Native React Android Windows Technology Web
 categories: [blog, technology]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-04-06'
 ---
 
 React Native is a framework built by Facebook to build native apps using React. React Native is built around the objective - learn once, write anywhere.

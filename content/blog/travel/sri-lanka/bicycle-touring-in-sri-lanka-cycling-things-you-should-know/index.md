@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sri Lanka Cycling
-tags: Travel SriLanka Cycling
+tags: ['Travel', 'SriLanka', 'Cycling']
 categories: [blog, travel]
-date: '2015-05-01T22:12:03.284Z'
+date: '2017-04-24'
 ---
 
 Sri Lanka is a tropical paradise with its lush green forest cover, abundant wildlife and pristine beaches. Years of civil war have kept the country out of tourist map. Now, Sri Lanka is a hotspot in the tourist circuit.
