@@ -1,6 +1,7 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
+import './Bio.scss'
 
 import { rhythm } from '../utils/typography'
 
@@ -12,9 +13,8 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <div
+            className="description-block"
             style={{
-              display: `flex`,
-              alignItems: `flex-end`,
               marginBottom: rhythm(0.5),
             }}
           >
@@ -34,45 +34,26 @@ function Bio() {
             />
             */}
             <p
-              style={{
-                width: `60%`,
-              }}
+              className="note"
             >
               Freelance Web Developer. <br />
               Looking for exciting opportunities to collaborate.
             </p>
             <p
-              style={{
-                display: `flex`,
-                justifyContent: `space-between`,
-                width: `40%`,
-                textAlign: `right`,
-              }}
+              className="links"
             >
               <a
                 href="https://twitter.com/NobalMohan"
-                style={{
-                  width: `30%`,
-                  textAlign: `right`,
-                }}
               >
                 twitter
               </a>
               <a
                 href="https://www.linkedin.com/in/nobal-mohan/"
-                style={{
-                  width: `40%`,
-                  textAlign: `center`,
-                }}
               >
                 linkedin
               </a>
               <a
                 href="mailto:conatct@nobal.in"
-                style={{
-                  width: `20%`,
-                  textAlign: `center`,
-                }}
               >
                 email
               </a>

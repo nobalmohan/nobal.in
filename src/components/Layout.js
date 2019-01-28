@@ -15,15 +15,20 @@ class Layout extends React.Component {
         <h1
           style={{
             ...scale(1.5),
-            marginBottom: rhythm(1.5),
+            marginBottom: rhythm(1.0),
             marginTop: 0,
+            border: 'none'
           }}
         >
           <Link
             style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              boxShadow: 'none',
+              textDecoration: 'none',
+              fontSize: '32px',
+              color: '#fff',
+              padding: '8px 20px',
+              background: 'linear-gradient(90deg,#feb6a3,#f964b0)',
+              borderRadius: '5px'
             }}
             to={`/`}
           >
@@ -41,9 +46,13 @@ class Layout extends React.Component {
         >
           <Link
             style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              boxShadow: 'none',
+              textDecoration: 'none',
+              fontSize: '32px',
+              color: '#fff',
+              padding: '8px 20px',
+              background: 'linear-gradient(90deg,#feb6a3,#f964b0)',
+              borderRadius: '5px'
             }}
             to={`/`}
           >
