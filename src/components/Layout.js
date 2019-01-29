@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import './Layout.css'
+import './Layout.scss'
 
 import { rhythm, scale } from '../utils/typography'
 
@@ -21,15 +21,7 @@ class Layout extends React.Component {
           }}
         >
           <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              fontSize: '32px',
-              color: '#fff',
-              padding: '8px 20px',
-              background: 'linear-gradient(90deg,#feb6a3,#f964b0)',
-              borderRadius: '5px'
-            }}
+            className="logo"
             to={`/`}
           >
             {title}
@@ -41,19 +33,11 @@ class Layout extends React.Component {
         <h3
           style={{
             fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
+            marginTop: `${rhythm(0.5)}`,
           }}
         >
           <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              fontSize: '32px',
-              color: '#fff',
-              padding: '8px 20px',
-              background: 'linear-gradient(90deg,#feb6a3,#f964b0)',
-              borderRadius: '5px'
-            }}
+            className="logo"
             to={`/`}
           >
             {title}
