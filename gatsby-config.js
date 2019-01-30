@@ -68,7 +68,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/header.png`,
+        icon: `content/assets/nobal-in-logo.png`,
       },
     },
     `gatsby-plugin-offline`,
