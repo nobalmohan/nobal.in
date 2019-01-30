@@ -5,6 +5,8 @@ tags: Technology Yahoo API
 categories: [blog, technology]
 date: '2017-02-28'
 ---
+### Update: This articlue is outdated as of 2019
+
 
 Yahoo Finance provide a way to query real time stock market data across the world. You can use Yahoo Query Language [console](https://developer.yahoo.com/yql/console/) to test your query.
 

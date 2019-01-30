@@ -6,7 +6,7 @@ categories: [blog, travel]
 date: '2017-05-15'
 ---
 
-If you are looking for a day long road trip close to Bangalore, then BR hills and Shivanasamudra Falls would be a perfect choice for a picnic.
+If you are looking for a day long road trip close to Bangalore, then BR hills and Shivanasamudra Falls would be a perfect choice for a picnic day trip.
 
 Shivanasamudra Falls on Kaveri river is 3 hours drive from Bangalore on the way to Mysore. It's a bluff type waterfall and a hydroelectric power station was setup in 1909. The view is spectacular from the opposite ridge where Karnataka tourism department have constructed staircase and a small watch platform for an 180-degree view. Vehicle fee is collected by the forest department to enter the view platform.
 
@@ -24,4 +24,6 @@ Karnataka forest department has a jungle lodge around 18 km from the peak down s
 
 There's no shop near the jungle lodge. So pack your food stuff for a picnic and don't leave any trash behind. BR hills are plastic free zone. We spotted wild boars, barking deer, captive elephants, spotted deer close to the jungle lodge. If you are lucky, you might spot the big cat too.
 
-Route: Bangalore - Mysore Highway - Ramanagaram - Chennapattana - Maddur - Kollegal - Malavalli - Yelandur - Biligirirange Hills
+#### Route
+
+Bangalore - Mysore Highway - Ramanagaram - Chennapattana - Maddur - Kollegal - Malavalli - Yelandur - Biligirirange Hills

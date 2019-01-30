@@ -52,17 +52,23 @@ Once you setup your AVD(emulator) you can launch it directly from terminal.
 
 To list down all the emulators
 
+```vim
 > emulator -list-avds
+```
 
 To launch your emulator
 
+```vim
 > emulator -avd emulator-name
+```
 
 ## Project setup
 
 Now that we have installed all the prerequisites for our React Native app. Lets set up a sample project.
 
+```vim
 > react-native init SampleProject
+```
 
 React Native init is a bootstrap command to setup everything you needed for your app.
 
@@ -70,12 +76,18 @@ React Native init is a bootstrap command to setup everything you needed for your
 
 You have to run the server separately in a terminal and execute your app separately in a terminal. In the recent version, both terminals are launched by one command
 
+```vim
 > react-native start
+```
 
 If you don't see the emulator and server starting separately. Open a new terminal and execute the command
 
+```vim
 > react-native run-android
+```
 
 You SampleProject should launch in the emulator now. To refresh the app
 
+```vim
 > Press F2 or Ctrl + M or Ctrl + R
+```

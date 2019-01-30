@@ -10,22 +10,22 @@ Jekyll follows liquid templating and allows a greater customization of filtering
 
 To filter a list of post based on one category:
 
-```
-  for post in site.posts
-       if post.categories contains 'Travel'
-          <a href="#">post.title</a>
-       endif
-   endfor
+```javascript
+for post in site.posts
+      if post.categories contains 'Travel'
+         <a href="#">post.title</a>
+      endif
+endfor
 ```
 
 For the tag, replace category with tag.
 
-```
-  for post in site.posts
-       if post.tags contains 'Travel'
-          <a href="#">post.title</a>
-       endif
-   endfor
+```javascript
+for post in site.posts
+      if post.tags contains 'Travel'
+         <a href="#">post.title</a>
+      endif
+endfor
 ```
 
 ### Contains can only search strings. You cannot use it to check for an object in an array of objects. Left argument is case sensitive

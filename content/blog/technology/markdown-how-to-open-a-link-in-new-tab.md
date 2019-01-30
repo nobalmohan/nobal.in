@@ -6,22 +6,18 @@ categories: [blog, technology]
 date: '2017-04-20'
 ---
 
-Linking in markdown is a fairly simple. You add the text in square brackets and enclose the link in parenthesis.
+Linking in markdown is a fairly simple. You can add a HTML directly with the target attribute. But if you are using Jekyll, you add the text in square brackets and enclose the link in parenthesis with additional target syntax like mentioned below. 
 
-```markdown
-[text-to-highlight](actual-link)
-```
-
-Now, to add a target attribute to the link
+### For Jekyll
 
 ```markdown
 [text-to-highlight](actual-link){:target="\_blank"}
 ```
 
-### Example
-
-[Google](https://www.google.com/){:target="\_blank"}
+### For others
 
 ```markdown
-[Google](https://www.google.com/){:target="\_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 ```
+
+

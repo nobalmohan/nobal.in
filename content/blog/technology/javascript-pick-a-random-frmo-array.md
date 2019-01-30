@@ -15,7 +15,7 @@ Example array
 var fruitList = ['Apple', 'Mango', 'Banana', 'Orange']
 ```
 
-### Vanilla JavaScript
+#### Vanilla JavaScript
 
 Find the length of the array and use Math.random() to pick a value. Math.floor() will help you to pick an integer close to the random number.
 
@@ -23,7 +23,7 @@ Find the length of the array and use Math.random() to pick a value. Math.floor()
 var randomFruit = fruitList[Math.floor(Math.random() * fruitList.length)]
 ```
 
-### Underscore
+#### Underscore
 
 You can use \_.sample to pick a random sample from an array. You can also pass an extra parameter to tell the number of random value you need.
 
@@ -39,7 +39,7 @@ Will return two random values
 _.sample(fruitList, 2)
 ```
 
-### Lodash
+#### Lodash
 
 Similar to Underscore. But called as sampleSize
 
