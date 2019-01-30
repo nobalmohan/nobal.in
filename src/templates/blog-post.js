@@ -36,7 +36,6 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
         <ul
           style={{
             display: `flex`,
@@ -45,7 +44,7 @@ class BlogPostTemplate extends React.Component {
             listStyle: `none`,
             padding: 0,
             margin: 0,
-            marginTop: `10%`,
+            marginBottom: `4%`,
           }}
         >
           <li
@@ -84,6 +83,12 @@ class BlogPostTemplate extends React.Component {
             )}
           </li>
         </ul>
+        <hr
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        />
+        <Bio />
       </Layout>
     )
   }

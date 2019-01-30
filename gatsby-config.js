@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Nobal.in`,
     author: `Nobal Mohan`,
-    description: `A personal blog on travel and web.`,
+    description: `Freelance web developer based out of bangalore. Works on React, Angular, Vue and Javascript.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `nobalmohan`,
@@ -62,13 +62,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Nobal - Freelance web developer`,
+        short_name: `nobal.in`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/header.png`,
       },
     },
     `gatsby-plugin-offline`,
