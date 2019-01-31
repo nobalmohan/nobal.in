@@ -36,27 +36,27 @@ function Bio() {
             <p
               className="note"
             >
-              Freelance Web Developer. <br />
-              Looking for exciting opportunities to collaborate.
-            </p>
-            <p
-              className="links"
-            >
-              <a
-                href="https://twitter.com/NobalMohan"
+              Freelance Web Developer. Writes about Technology and Travel.
+
+            <span
+                className="links"
               >
-                twitter
+                <a
+                  href="https://twitter.com/NobalMohan"
+                >
+                  twitter
               </a>
-              <a
-                href="https://www.linkedin.com/in/nobal-mohan/"
-              >
-                linkedin
+                <a
+                  href="https://www.linkedin.com/in/nobal-mohan/"
+                >
+                  linkedin
               </a>
-              <a
-                href="mailto:conatct@nobal.in"
-              >
-                email
+                <a
+                  href="mailto:conatct@nobal.in"
+                >
+                  email
               </a>
+              </span>
             </p>
           </div>
         )

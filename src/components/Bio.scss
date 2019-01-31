@@ -4,39 +4,17 @@
     flex-direction: row;
 
     .note {
-        width: 60%,
+        width: 100%;
     }
 
     .links {
         display: flex;
-        justify-content: space-between;
-        width: 40%;
+        justify-content: start;
         text-align: right;
     }
 
     a {
-        width: 30%;
-        text-align: center !important;
-        font-size: 14px;
+        font-size: 15px;
+        margin-right: 5%;
     }
-
-    @media (max-width: 767.98px) {
-        flex-direction: column;
-
-        .note {
-            width: 100%,
-        }
-
-        .links {
-            width: 100%;
-        }
-
-        a {
-            text-align: left !important;
-        }
-
-
-    }
-
-
 }
