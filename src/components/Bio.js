@@ -52,7 +52,7 @@ function Bio() {
                   linkedin
               </a>
                 <a
-                  href="mailto:conatct@nobal.in"
+                  href="mailto:contact@nobal.in"
                 >
                   email
               </a>
