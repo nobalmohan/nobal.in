@@ -32,11 +32,11 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            */}
+            */} 
             <p
               className="note"
             >
-              Freelance Web Developer. Writes about Technology and Travel.
+              Web Developer | JavaScript enthusiast | Starups | Watercolor | Cycling
 
             <span
                 className="links"
@@ -44,17 +44,17 @@ function Bio() {
                 <a
                   href="https://twitter.com/NobalMohan"
                 >
-                  twitter
+                  Twitter
               </a>
                 <a
                   href="https://www.linkedin.com/in/nobal-mohan/"
                 >
-                  linkedin
+                  LinkedIn
               </a>
                 <a
                   href="mailto:contact@nobal.in"
                 >
-                  email
+                  Email
               </a>
               </span>
             </p>

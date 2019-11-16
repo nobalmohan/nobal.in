@@ -6,7 +6,7 @@ categories: [blog, cycling]
 date: '2017-05-05'
 ---
 
-This post is intended for beginners, who plan to do the famous Manali-Leh bicycle tour. Written after my first Himalayan cycling covering 900 Kms in Shimla - Spiti - Leh route in 2014. Enjoy !
+Written after my first Himalayan cycling covering 900 Kms from Shimla - Spiti to Leh in 2014. This blog post is more of a prep guide than an elaborate summary of my journey. It's intended for beginners, who plan to do the famous Manali-Leh bicycle tour on their own.
 
 I will split up the note into three parts: Planning / Preparation / Ride
 
