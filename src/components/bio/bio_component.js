@@ -3,13 +3,13 @@ import { StaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 import './Bio.scss'
 
-import { rhythm } from '../utils/typography'
+import { rhythm } from '../../utils/typography'
 
 function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
-      render={data => {
+      render={(data) => {
         const { author, social } = data.site.siteMetadata
         return (
           <div
@@ -32,30 +32,14 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            */} 
-            <p
-              className="note"
-            >
-              Web Developer | JavaScript enthusiast | Starups | Watercolor | Cycling
-
-            <span
-                className="links"
-              >
-                <a
-                  href="https://twitter.com/NobalMohan"
-                >
-                  Twitter
-              </a>
-                <a
-                  href="https://www.linkedin.com/in/nobal-mohan/"
-                >
-                  LinkedIn
-              </a>
-                <a
-                  href="mailto:contact@nobal.in"
-                >
-                  Email
-              </a>
+            */}
+            <p className="note">
+              Web Developer | JavaScript enthusiast | Starups | Watercolor |
+              Cycling
+              <span className="links">
+                <a href="https://twitter.com/NobalMohan">Twitter</a>
+                <a href="https://www.linkedin.com/in/nobal-mohan/">LinkedIn</a>
+                <a href="mailto:contact@nobal.in">Email</a>
               </span>
             </p>
           </div>
