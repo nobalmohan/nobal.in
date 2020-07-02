@@ -2,7 +2,7 @@
 layout: post
 title: 5 Atom packages for every web developer
 tags: Atom Tools Technology
-categories: [blog, technology]
+categories: [ technology]
 date: '2017-04-17'
 ---
 

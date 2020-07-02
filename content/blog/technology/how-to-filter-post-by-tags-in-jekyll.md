@@ -2,7 +2,7 @@
 layout: post
 title: How to filter post by category or tag in Jekyll
 tags: Web Technology Jekyll
-categories: [blog, technology]
+categories: [ technology]
 date: '2017-04-22'
 ---
 

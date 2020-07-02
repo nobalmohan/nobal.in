@@ -2,7 +2,7 @@
 layout: post
 title: Bangalore weekend getaway to Lepakshi and Gandikota
 tags: Travel Bangalore India
-categories: [blog, travel]
+categories: [ travel]
 date: '2015-02-21'
 ---
 

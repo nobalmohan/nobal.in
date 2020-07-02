@@ -2,7 +2,7 @@
 layout: post
 title: How to take a screenshots in Mac OS
 tags: Mac Technology
-categories: [blog, technology]
+categories: [ technology]
 date: '2017-04-01'
 ---
 

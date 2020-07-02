@@ -2,7 +2,7 @@
 layout: post
 title: What is Jekyll
 tags: Web Jekyll Technology
-categories: [blog, technology]
+categories: [ technology]
 date: '2017-03-15'
 ---
 

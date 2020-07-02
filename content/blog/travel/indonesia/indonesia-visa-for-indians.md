@@ -2,7 +2,7 @@
 layout: post
 title: Indonesian visa for Indians
 tags: Travel India Indonesia
-categories: [blog, travel]
+categories: [ travel]
 date: '2017-03-10'
 ---
 

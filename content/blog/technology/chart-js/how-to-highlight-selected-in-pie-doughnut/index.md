@@ -2,7 +2,7 @@
 layout: post
 title: Chart.js - How to highlight doughnut and pie selection on click
 tags: Chartjs Javascript
-categories: [blog, technology, chartjs]
+categories: [ technology, chartjs]
 date: '2019-01-30'
 ---
 

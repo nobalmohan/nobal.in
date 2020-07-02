@@ -2,7 +2,7 @@
 layout: post
 title: Sri Lanka Cycling
 tags: ['Travel', 'SriLanka', 'Cycling']
-categories: [blog, travel]
+categories: [ travel]
 date: '2017-04-24'
 ---
 

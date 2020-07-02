@@ -2,7 +2,7 @@
 layout: post
 title: Bangalore Day Trip - Belur and Halebidu
 tags: Travel Bangalore India
-categories: [blog, travel]
+categories: [ travel]
 date: '2017-05-22'
 ---
 

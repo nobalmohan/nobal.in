@@ -2,7 +2,7 @@
 layout: post
 title: Cycling in Himalayas - Doing the Shimla - Spiti - Leh trail on your own
 tags: Travel Himalayas Cycling
-categories: [blog, cycling]
+categories: [ cycling]
 date: '2017-05-05'
 ---
 

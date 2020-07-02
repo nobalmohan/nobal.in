@@ -2,7 +2,7 @@
 layout: post
 title: Open markdown link in new tab
 tags: Web Technology Jekyll
-categories: [blog, technology]
+categories: [ technology]
 date: '2017-04-20'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Pick a random value from JavaScript array
 tags: JavaScript Technology
 image: header.png
-categories: [blog, technology]
+categories: [ technology]
 date: '2017-03-24'
 ---
 

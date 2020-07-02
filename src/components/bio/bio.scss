@@ -1,10 +1,16 @@
 .description-block {
   display: flex;
-  align-items: flex-end;
-  flex-direction: row;
-
+  align-items: flex-start;
+  flex-direction: column;
+  border: none;
+  .title {
+    color: #24292e;
+    font-size: 38px;
+    border: none;
+  }
   .note {
     width: 100%;
+    
   }
 
   .links {
