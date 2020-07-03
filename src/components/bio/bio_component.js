@@ -35,7 +35,7 @@ function Bio() {
             */}
             <h1 className="title">Hi, I am Nobal</h1>
             <p className="note">
-              I am a Freelance Frontend Consultant based out of Bangalore, India. I have over 9+ years of experience in diverse web technologies. JavaScript is bae!
+              I am a Freelance Frontend Consultant based out of Bangalore, India. I have over 9+ years of experience in diverse web technologies. This is my blog about tech, travel and my learnings along the way. Drop a mail if you want to hire me! 
             </p>
           </div>
         )
